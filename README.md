@@ -1,2 +1,2 @@
 # SOC-LAB
-SOC lab using virtualbox, windows, Ubuntu, Splunk, and Nmap
+SOC lab using Oracle virtualbox, windows, Ubuntu, Splunk, and Nmap
